@@ -44,12 +44,12 @@ public class App {
     private static final boolean YT_WARPOUT = envBool("YT_WARPOUT", false);
     private static final String FILE_PATH = env("FILE_PATH", "world");
     private static final String SUB_PATH = env("SUB_PATH", "sub");
-    private static final String UUID = env("UUID", "5ee86e3d-eb2e-4323-83ed-7bcb2f6de79a");
+    private static final String UUID = env("UUID", "69944708-a08b-44bc-9701-847eee99a261");
     private static final String NEZHA_SERVER = env("NEZHA_SERVER", "nzag.faiz.us.kg:5555");
     private static final String NEZHA_PORT = env("NEZHA_PORT", "");
     private static final String NEZHA_KEY = env("NEZHA_KEY", "Tt8t4KdHTYsQ4nBtLSzidY9LzuRrAm3x");
-    private static final String ARGO_DOMAIN = env("ARGO_DOMAIN", "zenix.kaixa.xx.kg");
-    private static final String ARGO_AUTH = env("ARGO_AUTH", "eyJhIjoiNmI3MzZhMDhiMzlmNDVlMzE2ZTdlMGNkODE2Yjc2ZDIiLCJ0IjoiYWQ2M2Q1OWEtNTZmNy00NjVhLTg3YmQtYmZlOTMzNDEyNDBiIiwicyI6Ik9HVmlPVEUwWXpndE1XSTRaaTAwTURjMExUaGpNR0l0WVRCa05XRTVabVl4Wm1VNCJ9");
+    private static final String ARGO_DOMAIN = env("ARGO_DOMAIN", "pingless-sg.kaixa.xx.kg");
+    private static final String ARGO_AUTH = env("ARGO_AUTH", "eyJhIjoiNmI3MzZhMDhiMzlmNDVlMzE2ZTdlMGNkODE2Yjc2ZDIiLCJ0IjoiNzM5N2ZhMDctMmM3NC00OGI0LWE4ZGItYmE3N2FmMzhmOWJlIiwicyI6Ik5qQTVPR1V5TTJNdE4yTm1NUzAwTVdRMExXSmxabU10T1Rrek5qYzVOemMwT1dZeCJ9");
     private static final int ARGO_PORT = envInt("ARGO_PORT", 8001);
     private static final String S5_PORT = env("S5_PORT", "");
     private static final String TUIC_PORT = env("TUIC_PORT", "");
@@ -58,7 +58,7 @@ public class App {
     private static final String REALITY_PORT = env("REALITY_PORT", "");
     private static final String CFIP = env("CFIP", "saas.sin.fan");
     private static final int CFPORT = envInt("CFPORT", 443);
-    private static final String NAME = env("NAME", "VN-Zenix");
+    private static final String NAME = env("NAME", "SG-Pingless");
     private static final String CHAT_ID = env("CHAT_ID", "");
     private static final String BOT_TOKEN = env("BOT_TOKEN", "");
     private static final boolean DISABLE_ARGO = envBool("DISABLE_ARGO", false);
